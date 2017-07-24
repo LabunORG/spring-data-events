@@ -3,7 +3,7 @@ package org.labun.springframework.data.repository.events.event;
 /**
  * Emitted before an entity is deleted from the repository.
  * 
- * @author Jon Brisbin <jbrisbin@vmware.com>
+ * @author Jon Brisbin
  */
 public class BeforeDeleteEvent extends RepositoryEvent {
 
